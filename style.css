@@ -219,6 +219,7 @@ body{
 .contact-item-text{
     display:flex;
     flex-direction:column;
+    color:#0e253d;
 }
 
 /* Form */
@@ -229,6 +230,7 @@ body{
 
 .form-group{
     margin-bottom:20px;
+    color:#0e253d;
 }
 
 .form-group label{
